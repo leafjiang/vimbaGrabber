@@ -1,4 +1,4 @@
-VIMBASDK_DIR		= ../Vimba_2_0
+VIMBASDK_DIR		= /Vimba_2_1
 
 PROJECT_NAME            = vimbaGrabber
 
